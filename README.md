@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusDesk — Student Information & Course Registration
 
 A small Flask + SQLite application for managing student records and registering students in courses. It is designed as a learning project for Git and GitHub workflows.
@@ -120,3 +121,6 @@ static/style.css       Responsive dashboard styling
 ## Learning scope
 
 This demo intentionally keeps authentication, role permissions, production hosting, email verification, and database migrations out of scope. Add those before using it with real student information.
+=======
+# student-course-registration
+>>>>>>> 03181b38ee412a522b54cb27ebd0961a66fe31da

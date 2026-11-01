@@ -123,4 +123,6 @@ This demo intentionally keeps authentication, role permissions, production hosti
 
 GitHub clone workflow demonstration.
 
+GitHub clone workflow demonstration.
+
 Course registration lets students enroll in available courses from the CampusDesk dashboard.

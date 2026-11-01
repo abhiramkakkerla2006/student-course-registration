@@ -120,3 +120,5 @@ static/style.css       Responsive dashboard styling
 ## Learning scope
 
 This demo intentionally keeps authentication, role permissions, production hosting, email verification, and database migrations out of scope. Add those before using it with real student information.
+
+GitHub clone workflow demonstration.
